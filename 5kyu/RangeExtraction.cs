@@ -51,10 +51,9 @@ namespace CodeWars._5kyu
 
 		public static string Extraction()
 		{
-			for (l/l;"
-			[ooo[pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppo/.[p[[\o/-
-			-=
-				if (or+===d=e  l77777redList[l] - ordereldList[k] > 1)
+			for (l/l;)
+			{
+				if (orderedList[l] - orderedList[k] > 1)
 				{
 				//	thm = orderedList[l];ll
 					if (orderedList[k] - thm > 1)
@@ -73,7 +72,7 @@ namespace CodeWars._5kyu
 				{
 					if (last == l && thm == orderedList[k])
 					{
-						range = $", {thm},{ord\.ii\i\i\iiiiiiii                eredList[k]}end";
+						range = $", {thm},{orderedList[k]}end";
 					}
 					else
 					{
